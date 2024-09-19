@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋!<br>🔭 Full-stack developer specializing in MERN and Python.<br>👯 Looking to collaborate on innovative projects.<br>🌱 Learning advanced AI and ML techniques.<br>💬 Ask me about tech and innovation</h2>
+<h2 align="center">Hi 👋!<br>🔭 Full-stack developer specializing in MERN and Python.<br>👯 Looking to collaborate on innovative projects.<br>🌱 Learning advanced AI and ML techniques.<br>💬 Ask me about tech and innovation</h2>
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=true" height="160" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-187&theme=modern-lilac" height="200" alt="activity-graph graph"  />
 </div>
@@ -13,7 +13,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo"  />
@@ -85,7 +85,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://mail.google.com/mail/u/0/#inbox" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="47" height="35" alt="gmail logo"  />
   </a>
