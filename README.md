@@ -104,6 +104,4 @@
 
 <br clear="both">
 
-<!<img src="https://raw.githubusercontent.com/ashutosh-187/ashutosh-187/output/snake.svg" alt="Snake animation" />>
-
 ###
