@@ -1,3 +1,5 @@
+<br clear="both">
+
 <h2 align="center">Hi 👋!<br>🔭 Full-stack developer specializing in MERN and Python.<br>👯 Looking to collaborate on innovative projects.<br>🌱 Learning advanced AI and ML techniques.<br>💬 Ask me about tech and innovation</h2>
 
 ###
@@ -88,12 +90,14 @@
 
 ###
 
-<img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<br clear="both">
+
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true" height="215" alt="languages graph"  />
 </div>
 
 ###
