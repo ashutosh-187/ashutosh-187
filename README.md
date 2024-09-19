@@ -92,9 +92,8 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=midnight-purple&hide_border=true" height="175" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashutosh-187&theme=modern-lilac" height="200" alt="activity-graph graph"  />
 </div>
 
 ###
