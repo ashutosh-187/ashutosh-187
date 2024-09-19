@@ -1,6 +1,4 @@
-<br clear="both">
-
-<h2 align="center">Hi 👋!<br>🔭 Full-stack developer specializing in MERN and Python.<br>👯 Looking to collaborate on innovative projects.<br>🌱 Learning advanced AI and ML techniques.<br>💬 Ask me about tech and innovation</h2>
+<h2 align="left">Hi 👋!<br>🔭 Full-stack developer specializing in MERN and Python.<br>👯 Looking to collaborate on innovative projects.<br>🌱 Learning advanced AI and ML techniques.<br>💬 Ask me about tech and innovation</h2>
 
 ###
 
@@ -78,12 +76,12 @@
 
 <br clear="both">
 
-<img align="right" height="450" src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/screen%20open.gif"  />
+<img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true" height="450" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true" height="185" alt="languages graph"  />
 </div>
 
 ###
