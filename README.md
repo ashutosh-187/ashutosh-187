@@ -74,20 +74,11 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="190" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"  />
-
-###
-
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true" height="185" alt="languages graph"  />
+  <img align="right" height="190" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" />
 </div>
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/ashutosh-187/ashutosh-187/output/snake.svg" alt="Snake animation" />
-
-###
