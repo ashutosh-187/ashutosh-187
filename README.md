@@ -78,14 +78,12 @@
 
 <br clear="both">
 
-<br>
-
-<img align="right" height="185" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+<img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-187&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=true" height="200" alt="languages graph"  />
 </div>
 
 ###
