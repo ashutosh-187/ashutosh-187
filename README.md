@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋!<br>🔭 Full-stack developer specializing in MERN and Python.<br>👯 Looking to collaborate on innovative projects.<br>🌱 Learning advanced AI and ML techniques.<br>💬 Ask me about tech and innovation</h2>
+<h2 align="center">Hi 👋!<br>🔭 Full-stack developer specializing in MERN and Python.<br>👯 Looking to collaborate on innovative projects.<br>🌱 Learning advanced AI and ML techniques.<br>💬 Ask me about tech and innovation</h2>
 
 ###
 
