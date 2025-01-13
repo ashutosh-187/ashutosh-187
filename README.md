@@ -53,8 +53,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="53" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="53" alt="figma logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="53" alt="anaconda logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="53" alt="canva logo"  />
