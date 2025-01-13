@@ -39,13 +39,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="53" alt="opencv logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="53" alt="tensorflow logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=pytorch" height="53" alt="pytorch logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" height="53" alt="kaggle logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/appwrite/F02E65" height="53" alt="appwrite logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="53" alt="postman logo"  />
   <img width="12" />
