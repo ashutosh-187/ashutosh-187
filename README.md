@@ -57,6 +57,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="53" alt="canva logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="53" alt="docker logo"  />
+  <img width="12" />
 </div>
 
 ###
