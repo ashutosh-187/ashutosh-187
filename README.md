@@ -31,8 +31,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nextjs" height="53" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=threejs" height="53" alt="threejs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="53" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="53" alt="numpy logo"  />
@@ -51,12 +49,6 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/postman/FF6C37" height="53" alt="postman logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="53" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="53" alt="vercel logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/netlify/00C7B7" height="53" alt="netlify logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="53" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="53" alt="github logo"  />
@@ -65,11 +57,8 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/anaconda/44A833" height="53" alt="anaconda logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="53" alt="blender logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="53" alt="canva logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="53" alt="adobephotoshop logo"  />
 </div>
 
 ###
