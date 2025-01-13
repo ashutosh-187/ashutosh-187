@@ -59,6 +59,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="53" alt="git logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="53" alt="git logo"  />
+  <img width="12" />
 </div>
 
 ###
