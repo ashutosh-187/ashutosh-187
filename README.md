@@ -29,8 +29,6 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nestjs" height="53" alt="nestjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="53" alt="nextjs logo"  />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=redux" height="53" alt="redux logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="53" alt="numpy logo"  />
@@ -44,10 +42,6 @@
   <img src="https://skillicons.dev/icons?i=git" height="53" alt="git logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="53" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="53" alt="anaconda logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="53" alt="canva logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=docker" height="53" alt="git logo"  />
   <img width="12" />
