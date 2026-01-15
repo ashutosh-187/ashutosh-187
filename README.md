@@ -76,14 +76,13 @@
 
 <div align="center">
   
-# 👋 Welcome to My Digital Workspace!
+### 👋 Welcome to My Digital Workspace!
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%9A%80;MERN+%26+Python+Enthusiast+%F0%9F%90%8D;AI+%26+ML+Explorer+%F0%9F%A4%96;Building+Tomorrow's+Solutions+%E2%9C%A8" alt="Typing SVG" />
 
-</div>
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 ## 🚀 About Me
@@ -130,25 +129,6 @@ const ashutosh = {
 
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="700">
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ashutosh-187&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ashutosh-187&theme=radical&hide_border=true&background=0D1117&stroke=6C63FF&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF" />
-</div>
-
-<div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashutosh-187&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ashutosh-187&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" />
-</div>
-
 ## 🤝 Let's Connect!
 
 <div align="center">
@@ -183,7 +163,3 @@ while (alive):
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ashutosh-187&style=for-the-badge&color=6C63FF" alt="Profile Views" />
-</div>
