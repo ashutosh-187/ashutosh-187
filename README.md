@@ -123,7 +123,7 @@ const ashutosh = {
 
 ## 💻 Tech Arsenal
 
-<table width="100%" style="border-spacing: 50px;">
+<table align="center" width="100%" style="border-spacing: 50px;">
 <tr>
 <td align="center" width="33%" style="padding: 25px; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); border-radius: 12px;">
 <h3 style="color: white; margin: 0 0 15px 0;">🎯 Core Languages</h3>
