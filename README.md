@@ -42,7 +42,7 @@ const ashutosh = {
 <td align="center" width="33%" style="padding: 25px; background: linear-gradient(135deg, #f093fb 0%, #f5576c 100%); border-radius: 12px;">
 <h3 style="color: white; margin: 0 0 15px 0;">🎨 Frontend</h3>
 <img src="https://skillicons.dev/icons?i=html,css,tailwind" height="45" /><br/>
-<img src="https://skillicons.dev/icons?i=react,redux" height="45" style="margin-top: 8px;" />
+<img src="https://skillicons.dev/icons?i=react,redux,nextjs" height="45" style="margin-top: 8px;" />
 </td>
 <td align="center" width="33%" style="padding: 25px; background: linear-gradient(135deg, #4facfe 0%, #00f2fe 100%); border-radius: 12px;">
 <h3 style="color: white; margin: 0 0 15px 0;">⚙️ Backend</h3>
@@ -54,7 +54,7 @@ const ashutosh = {
 <tr>
 <td align="center" style="padding: 25px; background: linear-gradient(135deg, #43e97b 0%, #38f9d7 100%); border-radius: 12px;">
 <h3 style="color: white; margin: 0 0 15px 0;">🗄️ Database</h3>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,redis" height="45" />
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,redis" height="45" />
 </td>
 <td align="center" colspan="2" style="padding: 25px; background: linear-gradient(135deg, #fa709a 0%, #fee140 100%); border-radius: 12px;">
 <h3 style="color: white; margin: 0 0 15px 0;">🤖 AI/ML & Data Science</h3>
